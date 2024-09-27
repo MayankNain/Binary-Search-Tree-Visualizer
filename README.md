@@ -32,7 +32,7 @@ Welcome to the Bus Reservation System project! This system allows users to manag
 1. Clone the repository:
 
     ```bash
-    https://github.com/AbdullahIbrahim157/Binary-Search-Tree-Visualizer/
+    https://github.com/MayankNain/Binary-Search-Tree-Visualizer
     ```
 
 2. Compile the main.cpp file:
@@ -47,13 +47,4 @@ Welcome to the Bus Reservation System project! This system allows users to manag
 - Follow the on-screen menu to interact with the project.
 - Choose options such as adding , Removal, Edit, and Exit.
 
-## Screenshots
 
-![Screenshot 1](https://guiprojects.com/wp-content/uploads/2024/01/7-1.png)
-
-
-
-
----
-
-Visit the related post on [guiprojects.com](https://guiprojects.com/binary-search-tree-visualizer/) for more details and updates.
